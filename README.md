@@ -4,6 +4,7 @@ Coded in C++, this game is a shooter based game with a simple level progression.
 Game is build using SFML library and has been linked using the solution directory file path. Still if the code doesn't run, please link the library using Visual Studio 2019 or any other IDE.
 
 How to Play:
+* To start game, SMFLLinkExample->SMFLLinkExample->AstroSmash.exe.
 * Use WSAD keys to move the ship and avoid collisions !!
 * Press left and right mouse key to fire missiles.(Press both buttons to fire from both the left and right wings)
 * Collect ammo crates by colliding with them .(they look like white rectangular objects)
